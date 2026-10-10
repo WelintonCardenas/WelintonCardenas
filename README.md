@@ -1,6 +1,6 @@
 <h1 align="center">¡Hola! Soy Welinton Cárdenas 👋</h1>
 <p align="center">
-  <em>Desarrollador · Aprendiendo y construyendo cosas útiles con código</em>
+  <em>Desarrollador móvil y web · React · React Native · Flutter · Inteligencia Artificial</em>
 </p>
 
 <p align="center">
@@ -12,22 +12,38 @@
 
 ### 🙋‍♂️ Sobre mí
 
-- 🔭 Actualmente trabajo en **[nombre del proyecto](https://github.com/WelintonCardenas)**
-- 🌱 Estoy aprendiendo **[tecnología que estudias]**
-- 👯 Busco colaborar en **proyectos open source / [área de interés]**
-- 💬 Pregúntame sobre **[tema que dominas]**
+Desarrollo aplicaciones móviles y web enfocadas en resolver problemas reales: desde gestión de ventas hasta finanzas personales. Me apasiona integrar **Inteligencia Artificial** en mis proyectos para crear soluciones más inteligentes y eficientes.
+
+- 🔭 Actualmente trabajo en una **app de banca de lotería** con Flutter y una **app de control de gastos y deudas** con React Native
+- 📱 Me especializo en **desarrollo móvil multiplataforma** (Android e iOS)
+- 🤖 Tengo dominio de **IA** y la aplico para automatizar y potenciar aplicaciones
+- 👯 Abierto a colaborar en proyectos móviles, web o con IA
 - 📫 Contacto: **[tu-correo@ejemplo.com]**
-- ⚡ Dato curioso: **[algo sobre ti]**
 
 ---
 
-### 🛠️ Tecnologías y herramientas
+### 🛠️ Tecnologías
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,python,mysql,git,github,vscode&theme=dark" alt="tecnologías" />
+  <img src="https://skillicons.dev/icons?i=react,flutter,dart,js,ts,androidstudio,git,github,vscode&theme=dark" alt="tecnologías" />
 </p>
 
-<!-- Edita la lista de arriba con tus tecnologías. Íconos disponibles: https://skillicons.dev -->
+<p align="left">
+  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native" />
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
+  <img src="https://img.shields.io/badge/Inteligencia_Artificial-412991?style=for-the-badge&logo=openai&logoColor=white" alt="IA" />
+</p>
+
+---
+
+### 🚀 Proyectos en desarrollo
+
+| Proyecto | Descripción | Tecnología |
+|---|---|---|
+| 🎰 **Banca de Lotería** | App para gestionar ventas de jugadas, tickets, resultados y cuadres de una banca de lotería | ![Flutter](https://img.shields.io/badge/-Flutter-02569B?logo=flutter&logoColor=white) |
+| 💰 **Control de Gastos y Deudas** | App de finanzas personales para registrar gastos, controlar deudas y visualizar en qué se va el dinero | ![React Native](https://img.shields.io/badge/-React_Native-20232A?logo=react&logoColor=61DAFB) |
+
+<!-- Cuando subas los repos, cambia los nombres por enlaces: [🎰 Banca de Lotería](https://github.com/WelintonCardenas/nombre-del-repo) -->
 
 ---
 
@@ -44,21 +60,11 @@
 
 ---
 
-### 📌 Proyectos destacados
-
-| Proyecto | Descripción | Tecnologías |
-|---|---|---|
-| [Proyecto 1](https://github.com/WelintonCardenas) | Breve descripción de qué hace | React, Node.js |
-| [Proyecto 2](https://github.com/WelintonCardenas) | Breve descripción de qué hace | Python |
-
----
-
 ### 🤝 Conecta conmigo
 
 <p align="left">
   <a href="https://linkedin.com/in/TU-USUARIO" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:tu-correo@ejemplo.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://TU-PORTAFOLIO.com" target="_blank"><img src="https://img.shields.io/badge/Portafolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portafolio" /></a>
 </p>
 
 <p align="center">⭐ ¡Gracias por visitar mi perfil!</p>
