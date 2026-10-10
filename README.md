@@ -12,13 +12,13 @@
 
 ### 🙋‍♂️ Sobre mí
 
-Desarrollo aplicaciones móviles y web enfocadas en resolver problemas reales: desde gestión de ventas hasta finanzas personales. Me apasiona integrar **Inteligencia Artificial** en mis proyectos para crear soluciones más inteligentes y eficientes.
+Desarrollo aplicaciones móviles y web enfocadas en resolver problemas reales: desde gestión de ventas hasta finanzas personales.
 
 - 🔭 Actualmente trabajo en una **app de banca de lotería** con Flutter y una **app de control de gastos y deudas** con React Native
 - 📱 Me especializo en **desarrollo móvil multiplataforma** (Android e iOS)
 - 🤖 Tengo dominio de **IA** y la aplico para automatizar y potenciar aplicaciones
 - 👯 Abierto a colaborar en proyectos móviles, web o con IA
-- 📫 Contacto: **[tu-correo@ejemplo.com]**
+- 📫 Contacto: **[Welintoncardenas27@gmail.com]**
 
 ---
 
@@ -63,7 +63,7 @@ Desarrollo aplicaciones móviles y web enfocadas en resolver problemas reales: d
 ### 🤝 Conecta conmigo
 
 <p align="left">
-  <a href="https://linkedin.com/in/TU-USUARIO" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="[https://linkedin.com/in/TU-USUARIO](https://www.linkedin.com/in/welinton-rodr%C3%ADguez-1220a8242/)" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:tu-correo@ejemplo.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
